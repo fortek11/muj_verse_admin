@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "622528948609",
+    "project_id": "muj-verse-beta",
+    "storage_bucket": "muj-verse-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622528948609:android:430014d52d4c47977a2080",
+        "android_client_info": {
+          "package_name": "com.example.muj_verse_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622528948609-gjcnumosc27un3n5aa427jvuegk23o51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muj_verse_beta",
+            "certificate_hash": "0ae3b4aab251e67cdfe92a721be7c8a5b56a023d"
+          }
+        },
+        {
+          "client_id": "622528948609-d8hairo0afa0700nt578ls1ba336jf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaNb4awUKc2uAKOpEnoQLquIFA2yMIQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622528948609-d8hairo0afa0700nt578ls1ba336jf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622528948609:android:9e94e1b02347b89b7a2080",
+        "android_client_info": {
+          "package_name": "com.example.try_flutter_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622528948609-d8hairo0afa0700nt578ls1ba336jf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaNb4awUKc2uAKOpEnoQLquIFA2yMIQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622528948609-d8hairo0afa0700nt578ls1ba336jf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
